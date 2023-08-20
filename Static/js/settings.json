@@ -1,0 +1,21 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "workbench.editorAssociations": {
+        "*.html": "default"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "python.defaultInterpreterPath": "/Users/nikolm/anaconda3/bin/python",
+    "terminal.integrated.inheritEnv": false,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    }
+}
